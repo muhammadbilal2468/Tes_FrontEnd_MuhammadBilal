@@ -2,3 +2,5 @@ Masuk terminal folder frontend ketik "npm run start" untuk menjankannya
 
 jika tidak bisa karena belum menginstall node js dll saya mengupload nya secara online
 
+website online:
+https://tes-front-end-muhammad-bilal.vercel.app/
